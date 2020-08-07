@@ -1,0 +1,4 @@
+baseURL = "http://kodindonesia.com/"
+languageCode = "en-us"
+title = "Kodindonesia Hugo Site"
+theme = "ananke"

@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Kodindonesia"
 theme = "ananke"
 
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCZpuwVWs-uvyZtgPRbLbxIg
+
 DefaultContentLanguage = "en"
 
 
@@ -15,8 +17,8 @@ DefaultContentLanguage = "en"
   favicon = ""
   site_logo = ""
   description = "Puzzles, games, ... fun with Excel, Python, C#"
-  instagram = ""
+  instagram = "https://instagram.com/kodindonesia?igshid=ki3ziaoyx4nd"
   youtube = "https://www.youtube.com/channel/UCZpuwVWs-uvyZtgPRbLbxIg"
   background_color_class = "bg-red"
   # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 3

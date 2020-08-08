@@ -7,13 +7,13 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
 [params]
+
   favicon = ""
   site_logo = ""
   description = "Puzzles, games, ... fun with Excel, Python, C#"
@@ -22,3 +22,5 @@ DefaultContentLanguage = "en"
   background_color_class = "bg-red"
   # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 3
+  
+  home_page_introduction = "Kodindonesia is about creating a family of Indonesian people who share the hobby of puzzles, games, and learning more about Excel, Python and C#."

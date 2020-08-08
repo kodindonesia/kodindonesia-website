@@ -1,10 +1,12 @@
 ---
-title: "Welcome"
-date: 2020-08-08T01:07:42+07:00
+title: "Selamat, Welcome"
+date: 2020-07-01T01:07:42+07:00
 draft: false
-description: "Kodindonesia is about creating a Koding family of people who share the hobby of puzzles, games, and learning more about Excel, Python and C#."
+featured_image: "https://i2.ytimg.com/vi/KmS7063wJKA/maxresdefault.jpg"
+tags: []
+description: "Kodindonesia is for Indonesian people who share the hobby of puzzles, games, and learning more about Excel, Python and C#"
 ---
-Welcome!!
+Welcome!!!  
 
 Kodindonesia is about creating a Koding family of people who share the hobby of puzzles, games, and learning more about Excel, Python and C#.
 

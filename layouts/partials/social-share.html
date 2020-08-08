@@ -4,7 +4,7 @@
 
 {{ if not .Params.disable_share }}
   <div id="sharing" class="mt3">
-
+Share on 
     {{ $facebook_href := printf "https://www.facebook.com/sharer.php?u=%s" $url }}
     <a href="{{ $facebook_href }}" class="facebook no-underline" aria-label="share on Facebook">
       {{ partialCached "svg/facebook.svg" (dict "size" $icon_size) $icon_size }}

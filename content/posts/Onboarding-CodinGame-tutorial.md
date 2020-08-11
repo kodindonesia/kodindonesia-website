@@ -7,3 +7,5 @@ tags: [CodinGame]
 description: "Kalian belajar Coding dengan game"
 ---
 Kalian belajar Coding dengan game. Mulai dari video ini.
+
+{{< youtube T5R0tB-kB44 >}} 

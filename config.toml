@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Kodindonesia"
 theme = "ananke"
 
-# https://www.youtube.com/feeds/videos.xml?channel_id=UCZpuwVWs-uvyZtgPRbLbxIg
-
 DefaultContentLanguage = "en"
 
 [sitemap]
@@ -23,4 +21,4 @@ DefaultContentLanguage = "en"
   # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 3
   
-  home_page_introduction = "Kodindonesia is about creating a family of Indonesian people who share the hobby of puzzles, games, and learning more about Excel, Python and C#."
+  home_page_introduction = "Kodindonesia is about creating a family of Indonesian people who share the hobbies of puzzles, games, and learning more about Excel, Python and C#."

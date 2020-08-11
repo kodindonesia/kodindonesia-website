@@ -39,6 +39,6 @@ Converting from string/text to number: the why and the how-to.
 
 IF(condition, outputIfTrue, outputIfFalse).
 
-
+{{< youtube OW9f27SexDc >}}
 
 Tutorial files:  https://drive.google.com/drive/folders/1Q8lhUA0cFAMwwpNJcs2ja9ecddsk6jFE

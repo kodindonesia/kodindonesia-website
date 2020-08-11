@@ -24,5 +24,6 @@ Beyond the solution: let's also show the path of Thor in the board.
 
 MATCH() formula. How to find an element in a group.
 
+{{< youtube Qf_nVi8v_YI >}}
 
 Tutorial files: https://drive.google.com/drive/folders/1cg6GOoOfOnmMRwtxAhL_yPLYFow0pmtW?usp=sharing 

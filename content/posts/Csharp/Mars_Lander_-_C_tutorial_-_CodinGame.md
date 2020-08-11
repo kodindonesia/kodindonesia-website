@@ -22,3 +22,4 @@ Conditions: "ternary operator".
 
 How to compare your code with other people's code in CodinGame. 
 
+{{< youtube Ma2UVZgX2rM >}}

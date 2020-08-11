@@ -20,6 +20,7 @@ COUNTIF()
 INDEX() to re-arrange cells (like we did in the Onboarding tutorial).
 
 The AND() condition. 
- 
- 
+
+{{< youtube 8SGQal0cbO4 >}} 
+  
 Tutorial Files: https://drive.google.com/drive/folders/1tQHeVzOfgOXbMvprzmX1dbDH0n6PL6dk?usp=sharing

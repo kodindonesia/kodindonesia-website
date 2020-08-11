@@ -14,3 +14,5 @@ We are always on the lookout for fun puzzles: feel free to suggest what you like
 
 The videos are on BitSlide/BitChute and on YouTube.
 
+{{< youtube KmS7063wJKA >}}
+

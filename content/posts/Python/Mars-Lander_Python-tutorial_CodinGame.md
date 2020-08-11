@@ -20,3 +20,5 @@ Conditions: "ternary operator".
 "class" defined, for now, as  "a group of Methods and Functions".  
 
 How to compare your code with other people's code in CodinGame.
+
+{{< youtube uormREuf12Q >}}

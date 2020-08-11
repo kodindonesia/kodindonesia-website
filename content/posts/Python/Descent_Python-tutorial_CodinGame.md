@@ -14,3 +14,5 @@ the "for" loop
 "to run a program":  step-by-step
 
 "debugging": eliminating a mistake in in the code
+
+{{< youtube pT-_uaM0Jbo >}}

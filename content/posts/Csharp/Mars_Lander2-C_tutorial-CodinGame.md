@@ -18,7 +18,7 @@ convert one line of text into a "List of integers"
 
 {{< youtube 856j5IipFfk >}}
 
-## Source code {#source-code}
+## Solution {#solution}
 Spoiler alert: first try to solve the problem by yourself. Or, try to write the code by yourself, while following the video tutorial.
 
 {{< highlight csharp "linenos=table,hl_lines=37-54 61-66,linenostart=1" >}}

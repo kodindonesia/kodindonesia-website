@@ -5,22 +5,27 @@ tags: [Excel, CodinGame]
 featured_image: "https://i1.ytimg.com/vi/8SGQal0cbO4/maxresdefault.jpg"
 description: "Let's look at a popular puzzle: Sudoku!"
 ---
+{{< youtube 8SGQal0cbO4 >}} 
+
+* * *
+[click here to download the Tutorial Files](https://drive.google.com/drive/folders/1tQHeVzOfgOXbMvprzmX1dbDH0n6PL6dk?usp=sharing  "Excel and LibreOffice Calc files")
+
+* * *
 Topics:
 
-Rules of the sudoku puzzle.
+- Rules of the sudoku puzzle.
 
-CodinGame puzzle's inputs and expected outputs.
+- CodinGame puzzle's inputs and expected outputs.
 
-How to show arrows indicating the 'precedents' (the input cells for the current cell's formula).
+- How to show arrows indicating the 'precedents' (the input cells for the current cell's formula).
 
-How to convert input text into many Excel cells ("space separated" information).
+- How to convert input text into many Excel cells ("space separated" information).
 
-COUNTIF()
+- COUNTIF().
 
-INDEX() to re-arrange cells (like we did in the Onboarding tutorial).
+- INDEX() to re-arrange cells (like we did in the Onboarding tutorial).
 
-The AND() condition. 
+- The AND() condition. 
 
-{{< youtube 8SGQal0cbO4 >}} 
+
   
-Tutorial Files: https://drive.google.com/drive/folders/1tQHeVzOfgOXbMvprzmX1dbDH0n6PL6dk?usp=sharing

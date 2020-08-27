@@ -8,11 +8,11 @@ description: "We come back to the Mars Lander 2 puzzle to add a trigonometric so
 ---
 Topics: 
 
-explanation of the trigonometry calculation of the landing angle
+- explanation of the trigonometry calculation of the landing angle
 
-ArcoSine is the function to get the angle from the sine (desired acceleration)
+- ArcoSine is the function to get the angle from the sine (desired acceleration)
 
-conversion from angle in radians to angle in degrees
+- conversion from angle in radians to angle in degrees
 
 {{< youtube 605RHv7sBCI >}}
 

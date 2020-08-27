@@ -8,13 +8,13 @@ description: "A fairly difficult puzzle: Let's solve it together, to learn more 
 ---
 Topics: 
 
-convert one line of text into a "List of integers"
+- convert one line of text into a "List of integers"
 
-"Tuple": to group individually named-variables
+- "Tuple": to group individually named-variables
 
-"List of Tuple": to identify the landing area
+- "List of Tuple": to identify the landing area
 
-"Properties" can be used to give a name to often-used formulas
+- "Properties" can be used to give a name to often-used formulas
 
 {{< youtube 856j5IipFfk >}}
 

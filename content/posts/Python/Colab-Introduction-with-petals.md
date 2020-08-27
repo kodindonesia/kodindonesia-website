@@ -7,9 +7,11 @@ featured_image: "https://i1.ytimg.com/vi/imnBH7uryMM/maxresdefault.jpg"
 description: "Introducing Colab by creating images and videos in Python"
 ---
 Tutorial code:
-[click here to open](https://colab.research.google.com/github/kodindonesia/Tutorial-Colab-Petals/blob/master/Tutorial_Colab_Petals.ipynb   "open this tutorial code, login, and click 'save to drive'")
+[click here to open](https://colab.research.google.com/github/kodindonesia/COLAB_Canvas-Video_Tutorials/blob/master/01-Tutorial_Colab_Petals.ipynb   "open this tutorial code, login, and click 'save to drive'")
 
 * * *
+{{< youtube imnBH7uryMM >}}
+
 Topics: 
 
 **"Colab"** allows you to use a very powerful computer, for free, from your browser (Android tablet, PC, etc.). You can code Colab in Python.
@@ -30,14 +32,11 @@ How to use **Colab** for the first time:
 
 - To run code in Colab, press the play button in each block
 
-- Kodindonesia provides a **helper library** to make it easier to start having fun in Colab:
+Kodindonesia provides a **helper library** to make it easier to start having fun in Colab:
 
-	- the video shows examples of how to use the canvas to draw and to display the drawing
+- the video tutorial shows examples of how to use the canvas to draw and to display the drawing
 
-	- the video shows an example of how to create videos
-
-
+- the video tutorial shows an example of how to create your own videos
 
 
 
-{{< youtube imnBH7uryMM >}}

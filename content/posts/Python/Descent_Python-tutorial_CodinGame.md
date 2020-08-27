@@ -7,12 +7,12 @@ description: "Explanation of 'RUN a program'!  ...and introducing the 'for' loop
 ---
 Topics:
 
-loop inside a loop
+- loop inside a loop
 
-the "for" loop
+- the "for" loop
 
-"to run a program":  step-by-step
+- "to run a program":  step-by-step
 
-"debugging": eliminating a mistake in in the code
+- "debugging": eliminating a mistake in in the code
 
 {{< youtube pT-_uaM0Jbo >}}

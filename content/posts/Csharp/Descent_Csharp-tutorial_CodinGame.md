@@ -7,9 +7,9 @@ description: "Introducing the 'for' loop"
 ---
 Topics:
 
-loop inside a loop
+- loop inside a loop
 
-the "for" loop
+- the "for" loop
 
 {{< youtube T7OTPjCv71I >}}
  

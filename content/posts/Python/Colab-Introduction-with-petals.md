@@ -7,7 +7,10 @@ featured_image: "https://i1.ytimg.com/vi/imnBH7uryMM/maxresdefault.jpg"
 description: "Introducing Colab by creating images and videos in Python"
 ---
 Tutorial code:
-[click here to open](https://colab.research.google.com/github/kodindonesia/COLAB_Canvas-Video_Tutorials/blob/master/01-Tutorial_Colab_Petals.ipynb   "open this tutorial code, login, and click 'save to drive'")
+[click here to open](https://colab.research.google.com/github/kodindonesia/COLAB_Canvas-Video_Tutorials/blob/master/01_Tutorial_Colab_Petals.ipynb   "open this tutorial code, login in Google, and click 'save to drive'")
+
+Manual to draw and to make videos code:
+[click here to open](https://colab.research.google.com/github/kodindonesia/COLAB_Canvas-Video_Tutorials/blob/master/00_Manual_Canvas_cv_and_Video_cv.ipynb   "open this Colab notebook, and learn how to use the Kodindonesia helper")
 
 * * *
 {{< youtube imnBH7uryMM >}}

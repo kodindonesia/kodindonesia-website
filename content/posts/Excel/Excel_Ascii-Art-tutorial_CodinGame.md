@@ -2,10 +2,10 @@
 title: "Excel - Ascii Art tutorial - CodinGame"
 date: 2020-07-27T20:22:52+00:00
 tags: [Excel, CodinGame]
-featured_image: "https://i1.ytimg.com/vi/XtTXH4sWpAQ/maxresdefault.jpg"
+featured_image: "https://i1.ytimg.com/vi/P2wYm1YMSY4/maxresdefault.jpg"
 description: "Let's see how to deal with TEXT in Excel and in LibreOffice"
 ---
-{{< youtube XtTXH4sWpAQ >}}
+{{< youtube P2wYm1YMSY4 >}}
 
 * * *
 

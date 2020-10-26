@@ -1,5 +1,5 @@
 ---
-title: "AI - Introduction with Face Animation - Tutorial Colab"
+title: "Artificial Intelligence - Face Animation Tutorial"
 date: 2020-10-20T16:44:46+07:00
 draft: false
 tags: [AI, Python, Colab]
